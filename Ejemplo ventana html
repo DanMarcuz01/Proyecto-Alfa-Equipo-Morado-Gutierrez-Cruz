@@ -1,0 +1,13 @@
+<html> (Abrimos el documento)
+
+	<head> (Abrimos el head)
+
+En la cabecera o head se inserta todo lo referente al title, styles vinculados,scripts, etc.
+
+	</head> (Cerramos el head)
+
+	<body> (Abrimos el body)
+
+En el cuerpo del documento o body, es donde va el contenido general, el grueso de la pagina.
+
+</body> (Cerramos el body)
